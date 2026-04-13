@@ -17,23 +17,21 @@ Tailwind CSS
 /server   → Backend (Node/Express)
 
 Why I built this
-
 I wanted to explore how far AI can go in actually helping with frontend development — not just giving snippets, but generating something usable.
-
 Also, it’s a fun mix of:
 
 UI/UX thinking
 Development
 AI experimentation
-🚧 Current Status
 
+🚧 Current Status
 Still a work in progress.
 Planning to improve:
-
 Better UI generation accuracy
 More customization options
 Cleaner code output
-🤝 Contributing
 
+
+🤝 Contributing
 If you have ideas or improvements, feel free to open an issue or PR.
 Always open to suggestions.
